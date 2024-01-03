@@ -1,4 +1,4 @@
-## operator
+## basic operator and math operator
 
 - **operand(피연산자):** 연산자가 연산을 수행하는 대상이다. argument(인수)라고 불리기도 한다.
 
