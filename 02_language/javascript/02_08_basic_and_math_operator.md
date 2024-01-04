@@ -40,4 +40,6 @@
 - 동일한 기호의 단항 연산자는 이항 연산자보다 우선순위가 더 높다.
 
 ### 참조
+---
+
 - [모던 JavaScript 튜토리얼 - 2.8 기본 연산자와 수학](https://ko.javascript.info/operators)
