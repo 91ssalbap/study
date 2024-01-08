@@ -13,3 +13,8 @@
 - **'continue':** 'continue' 예약어는 현재 코드 블록의 iteration을 멈추고 다음 iteration을 실행하기 위해 사용한다. 'for' 반복문의 경우 'continue'가 호출되면 조건을 평가한 후에 다음 iteration을 실행한다. 삼항연산자의 피연산자로 'continue'를 사용하면 문법오류가 발생한다.
 
 - **label:** label을 'break' 예약어와 함께 사용할 경우 여러 개의 중첩 반복문을 한 번에 빠져나오도록 할 수 있다. 레이블은 '레이블 이름: for() { }'와 같이 선언하여 사용한다. 반복문 안에서 'break 레이블 이름;'와 같이 선언할 경우 해당 레이블로 지정된 반복문을 빠져나간다. 'continue' 예약어와 함께 label을 사용할 경우 레이블로 지정된 반복문의 다음 iteration이 실행된다.
+
+### 참조
+---
+
+- [모던 JavaScript 튜토리얼 - 2.13 while과 for 반복문](https://ko.javascript.info/while-for)

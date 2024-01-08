@@ -15,4 +15,4 @@
 ### 참조
 ---
 
-- [모던 JavaScript 튜토리얼 - 2.11 nullish 병합 연산자 '??'](https://ko.javascript.info/nullish-coalescing-operator)
+- [모던 JavaScript 튜토리얼 - 2.12 nullish 병합 연산자 '??'](https://ko.javascript.info/nullish-coalescing-operator)

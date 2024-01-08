@@ -13,3 +13,8 @@
 - break 예약어가 없는 경우 조건에 상관없이 다음 case statement가 실행된다는 점을 이용해서 복수의 case문을 묶어 선언할 수 있다.
 
 - switch의 인수와 case의 인수는 data type까지 같아야 일치한 것으로 평가된다.
+
+### 참조
+---
+
+- [모던 JavaScript 튜토리얼 - 2.14 switch문](https://ko.javascript.info/switch)
