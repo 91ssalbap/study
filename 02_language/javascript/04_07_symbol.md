@@ -25,4 +25,4 @@
 ### 참조
 ---
 
-- [모던 JavaScript 튜토리얼 - 4.6 심볼형](https://ko.javascript.info/symbol)
+- [모던 JavaScript 튜토리얼 - 4.7 심볼형](https://ko.javascript.info/symbol)
