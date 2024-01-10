@@ -14,4 +14,7 @@
 
 - 엄격 모드에서는 원시 타입의 래퍼 객체를 수정하려고 할 때 에러가 발생한다.
 
+### 참조
+---
+
 - [모던 JavaScript 튜토리얼 - 5.1 원시값의 메서드](https://ko.javascript.info/primitives-methods)
