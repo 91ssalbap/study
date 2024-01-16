@@ -78,4 +78,6 @@
     alert(valueN[0]);       // value3
     alert(valueN[1]);       // value4
     alert(valueN.length)    // 2
-```  
+``` 
+
+- 할당하고자 하는 변수의 개수가 분해하고자 하는 배열의 길이보다 크면 할당할 값이 없는 변수는 undefined 값을 가진다. '='을 이용하면 할당할 값이 없을 때 기본으로 할당해 줄 값인 default value를 설정할 수 있다. 복잡한 표현식이나 함수 호출도 기본값이 될 수 있다.
