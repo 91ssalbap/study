@@ -56,3 +56,26 @@
         alert(`${key} : ${value}`); // key1 : value1, key2 : value2가 차례대로 출력된다.
     }
 ```
+
+- 두 변수에 저장된 값을 교환할 때 구조 분해 할당을 사용할 수 있다.
+```javascript
+    let value1 = "value1";
+    let value2 = "value2";
+
+    // 변수 value1에 value2의 값을, 변수 value2에 value1의 값을 교환하여 할당한다.
+    [value1, value2] = [value2, value1];
+
+    alert(value1);  // value2
+    alert(value2);  // value1
+```
+
+- '...'를 붙인 매개변수를 사용하면 이미 호출한 배열 앞쪽 값 몇 개를 재외하고 나머지 값들은 한번에 호출하여 처리할 수 있다. '...'을 붙인 매개변수는 마지막에만 사용할 수 있다.
+```javascript
+    let [value1, value2, ...valueN] = ["value1", "value2, "value3", "value4"];
+
+    alert(value1);          // value1
+    alert(value2);          // value2
+    alert(valueN[0]);       // value3
+    alert(valueN[1]);       // value4
+    alert(valueN.length)    // 2
+```  
