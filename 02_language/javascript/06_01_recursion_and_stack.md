@@ -23,3 +23,8 @@
 - linked list에 이전요소를 참조하는 프로퍼티 prev를 추가해 이전 요소로 쉽게 이동할 수 있다.
 
 - linked list의 마지막 요소를 참조하는 프로퍼티 tail을 추가할 수 있다. 리스트 마지막에 요소를 추가하거나 삭제하는 경우 tail도 갱신해야 한다.
+
+### 참조
+---
+
+- [모던 JavaScript 튜토리얼 - 6.1 재귀와 스택](https://ko.javascript.info/recursion)
