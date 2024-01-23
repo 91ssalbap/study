@@ -26,7 +26,21 @@
 
 ### spread syntax(전개 구문, 스프레드 문법)
 
+- spread syntax '...배열명': 배열의 각 요소 모두를 매개변수에 전달할 때 사용한다.
 
+- 함수를 호출할 때 iterable 객체 앞에 '...'을 사용하면 iterable 객체가 인수 목록으로 '확장'된다.
+
+- 여러 개의 iterable 객체를 전달할 수 있다.
+
+- spread syntax를 일반적인 값과 혼합해 사용할 수도 있다.
+
+- 배열을 합칠때에도 전개구문을 활용할 수 있다.
+
+- 반드시 배열이 아니더라도 iterable 객체일 경우 spread syntax를 사용할 수 있다.
+
+- 'Array.from(인수)'를 가지고도 spread syntax와 동일한 작업을 할 수 있다. 'Array.from(인수)'는 유사 배열 객체와 이터러블 객체 둘 다에 사용할 수 있다. spread syntax는 이터러블 객체에만 사용할 수 있다. 이러한 점 때문에 'Array.from(인수)'가 보편적으로 사용된다.
+
+- spread syntax를 사용하면 배열과 객체를 복사할 수 있다. 'Object.assign({}, obj);', 'Object.assign([], arr);'보다 더 짧은 코드로 배열이나 객체를 복사할 수 있어서 상대적으로 선호된다.
 
 ### 참조
 ---
