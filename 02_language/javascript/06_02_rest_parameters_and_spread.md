@@ -45,4 +45,4 @@
 ### 참조
 ---
 
-- [모던 JavaScript 튜토리얼 - 6.1 나머지 매개변수와 전개 구문](https://ko.javascript.info/rest-parameters-spread)
+- [모던 JavaScript 튜토리얼 - 6.2 나머지 매개변수와 전개 구문](https://ko.javascript.info/rest-parameters-spread)
